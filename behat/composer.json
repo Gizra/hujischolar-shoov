@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for https://scholars.huji.ac.il",
+  "description": "Functional testing for https://scholars.huji.ac.il site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
